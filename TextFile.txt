@@ -1,8 +1,1 @@
-second how is this
-foruth how is this
-
-<<<<<<< HEAD
-fifth how is this
-=======
-foruth how is this
->>>>>>> branch 'main' of https://github.com/AhmedAli1617/git-explorer-test-2.git
+First line restored
