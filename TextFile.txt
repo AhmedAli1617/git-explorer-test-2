@@ -1,6 +1,1 @@
-test
-<<<<<<< HEAD
 third line
-=======
-second line
->>>>>>> branch 'main' of https://github.com/AhmedAli1617/git-explorer-test-2.git
