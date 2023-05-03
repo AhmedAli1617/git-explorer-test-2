@@ -1,3 +1,7 @@
 First line
 Second line
+<<<<<<< HEAD
 Fourth Line
+=======
+Third line
+>>>>>>> branch 'main' of https://github.com/AhmedAli1617/git-explorer-test-2.git
