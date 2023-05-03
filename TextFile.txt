@@ -1,2 +1,7 @@
 new changes
 nnew file
+ges
+nnew file
+=======
+resolved
+>>>>>>> branch 'main' of https://github.com/AhmedAli1617/git-explorer-test-2.git
