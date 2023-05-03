@@ -1,6 +1,2 @@
-first line aaaxx
-st line aaaxx
-=======
-Line one
-Line two
->>>>>>> branch 'main' of https://github.com/AhmedAli1617/git-explorer-test-2.git
+check now if
+working
