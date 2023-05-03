@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-second first line
-seicnd
-=======
-restored again line one
+New changes
 second line
->>>>>>> branch 'main' of https://github.com/AhmedAli1617/git-explorer-test-2.git
