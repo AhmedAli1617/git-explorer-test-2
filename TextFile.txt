@@ -1,2 +1,7 @@
 akjfbakdb
 ashd kamsdj,b
+
+ashd kamsdj,b
+=======
+third line
+>>>>>>> branch 'main' of https://github.com/AhmedAli1617/git-explorer-test-2.git
