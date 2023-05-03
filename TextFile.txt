@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-second how is this
-=======
-how are you
->>>>>>> branch 'main' of https://github.com/AhmedAli1617/git-explorer-test-2.git
+second line
