@@ -1,1 +1,13 @@
+<<<<<<< HEAD
 second line
+=======
+<<<<<<< HEAD
+First line
+=======
+<<<<<<< HEAD
+second how is this
+=======
+how are you
+>>>>>>> branch 'main' of https://github.com/AhmedAli1617/git-explorer-test-2.git
+>>>>>>> 03d1af92765329591fe03ae23e99fece893e34c3
+>>>>>>> 5c032c8aa400bc4c24f904a5cab25c68911c00ef
