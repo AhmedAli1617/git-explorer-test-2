@@ -1,2 +1,2 @@
-First line restored
-second line restored
+All restored first
+All restored second
