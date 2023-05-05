@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 excellent
 new line
+=======
+all set
+cide
+>>>>>>> 0b1f59ec15c31d43e2f80a22f188e4c1730170ce
